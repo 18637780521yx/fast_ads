@@ -1,8 +1,9 @@
 name: fast_ads
 description: "本地 Flutter 广告封装包，集成 google_mobile_ads，支持 Banner、插屏、激励、原生广告，内置广告池、优先级兜底、重试等高级特性。"
 version: 1.0.0
-homepage: https://github.com/rayenergy/fitcal
-repository: https://github.com/rayenergy/fitcal
+homepage: https://github.com/18637780521yx/fast_ads
+repository: https://github.com/18637780521yx/fast_ads.git
+
 
 environment:
   sdk: ^3.8.0
